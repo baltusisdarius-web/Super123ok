@@ -1,5 +1,12 @@
 # Super123 V8.1 klientų demonstracija
 
+## Nuorodos
+
+- Klientams: https://baltusisdarius-web.github.io/Super123ok/
+- Vidinės sąsajos vieša demonstracija: https://baltusisdarius-web.github.io/Super123ok/vidinis.html
+
+Antroji nuoroda paruošta iš `Super123-V8-VIDINIS.zip`. Ji taip pat vieša, be prisijungimo, todėl joje nėra vidinių savikainų ir sandėlio likučių. Veikia skaičiuojamas komponentų sąrašas bei brėžinio PNG eksportas. Originalūs PDF ir ATRINKIMO PDF, sinchronizavimas bei serverio autentifikacija neįtraukti. Tai nėra apsaugota vidinė sistema.
+
 Vieša naršyklės demonstracija, paruošta iš vartotojo pateikto `Super123-V8-ATNAUJINTAS.zip`.
 
 Veikia rankinis konfigūravimas, automatinis parinkimas, 3D, planas, priekinis vaizdas ir vietinis projekto išsaugojimas. Skaičiavimai vykdomi naršyklėje. Importų žemėlapiams reikalinga šiuolaikinė naršyklė.
