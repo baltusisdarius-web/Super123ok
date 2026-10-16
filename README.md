@@ -1,6 +1,6 @@
-# Super123 V8 klientų demonstracija
+# Super123 V8.1 klientų demonstracija
 
-Vieša naršyklės demonstracija, paruošta iš vartotojo pateikto `Super123-v8.zip`.
+Vieša naršyklės demonstracija, paruošta iš vartotojo pateikto `Super123-V8-ATNAUJINTAS.zip`.
 
 Veikia rankinis konfigūravimas, automatinis parinkimas, 3D, planas, priekinis vaizdas ir vietinis projekto išsaugojimas. Skaičiavimai vykdomi naršyklėje. Importų žemėlapiams reikalinga šiuolaikinė naršyklė.
 
