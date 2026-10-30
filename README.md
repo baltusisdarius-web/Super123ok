@@ -1,20 +1,15 @@
-# Super123 V8.1 klientų demonstracija
+# Super123 V9 FINAL R2 · kliento konfiguratorius
 
-## Nuorodos
+Kliento versija: https://baltusisdarius-web.github.io/Super123ok/
 
-- Klientams: https://baltusisdarius-web.github.io/Super123ok/
-- Vidinės sąsajos vieša demonstracija: https://baltusisdarius-web.github.io/Super123ok/vidinis.html
+Atnaujinta 2026-10-30 pagal Super123-V9-ATNAUJINTAS-FINAL-R2. Geometry + BOM, automatinis parinkimas ir 3D veikia naršyklėje, be vietinio serverio.
 
-Antroji nuoroda paruošta iš `Super123-V8-VIDINIS.zip`. Ji taip pat vieša, be prisijungimo, todėl joje nėra vidinių savikainų ir sandėlio likučių. Veikia skaičiuojamas komponentų sąrašas bei brėžinio PNG eksportas. Originalūs PDF ir ATRINKIMO PDF, sinchronizavimas bei serverio autentifikacija neįtraukti. Tai nėra apsaugota vidinė sistema.
+Įtraukti naujausi sienų parametrų, alternatyvių pasiūlymų, žingsnių navigacijos, lentynų redagavimo ir matmenų pataisymai. Pardavimo kainų kopija: 2026-10-30; EUR su 21 % PVM. Kainos automatiškai neatnaujinamos.
 
-Vieša naršyklės demonstracija, paruošta iš vartotojo pateikto `Super123-V8-ATNAUJINTAS.zip`.
+Pasiūlymo PDF: pasirinkite „Spausdinti pasiūlymą / PDF“, tada spausdinimo lange „Išsaugoti kaip PDF“. Tai naršyklės dokumentas, o ne serverio PDF šablonas. Užklausos automatiškai nesiunčiamos; projektas išsaugomas tik naudojamoje naršyklėje.
 
-Veikia rankinis konfigūravimas, automatinis parinkimas, 3D, planas, priekinis vaizdas ir vietinis projekto išsaugojimas. Skaičiavimai vykdomi naršyklėje. Importų žemėlapiams reikalinga šiuolaikinė naršyklė.
+Viešame rinkinyje yra tik pardavimo kainos; nėra savikainų, sandėlio likučių, klientų duomenų ar serverio raktų. Darbuotojo autentifikacija ir sinchronizavimas reikalauja atskiro serverio.
 
-Pardavimo kainos yra 2026-10-15 V8 rinkinio kopija, tik orientacinės ir automatiškai neatnaujinamos. Nepadengtiems variantams kaina nerodoma. Ši demonstracija nėra užsakymo ar galutinio komercinio pasiūlymo sistema.
+`index.html` yra savarankiškas kliento modulių rinkinys, `v9-brand.svg` – prekės ženklo grafika. Three.js licencija: `three-LICENSE.txt`.
 
-PDF generavimas, užsakymų siuntimas, likučių sinchronizavimas, darbuotojų prisijungimas ir atrinkimas šioje versijoje neveikia. Tam reikalinga atskirai įdiegta serverio aplikacija.
-
-Viešame rinkinyje nėra vidinių savikainų, sandėlio likučių duomenų, darbuotojų dokumentų ar serverio prisijungimo raktų. Iš kainyno įtraukti tik pardavimo produktų ID, pavadinimai ir kainos su PVM. Originalus ZIP ir serverio duomenų failai neskelbiami.
-
-Publikuojama per GitHub Pages iš `main` šakos šakninio aplanko, kaip ankstesnė V5 demonstracija. `index.html` apima V8 naršyklės modulius, stilius ir grafiką. Three.js licencija pateikta `three-LICENSE.txt`.
+Ankstesni `vidinis.html` ir `v9-final.html` šiuo atnaujinimu nekeičiami. `vidinis.html` yra sena vieša demonstracija, ne apsaugota vidinė sistema.
